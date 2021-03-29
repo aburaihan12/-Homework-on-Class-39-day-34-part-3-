@@ -366,7 +366,11 @@
         font-size: 9px;
     }
     .footer-btn a {
-        padding: 17px 17px;
+        padding: 16px 14px;
+    }
+    .pricing-list ul li {
+        margin: 23px 0;
+        font-size: 16px;
     }
  
         
