@@ -1,0 +1,370 @@
+@media all and (max-width:1400px) {
+    .max-width {
+        padding-left: 20px;
+        padding-right: 20px;
+        box-sizing: border-box;
+    }
+    .s-content p {
+        font-size: 19px;
+    }
+    .s-content h3 {
+        font-size: 19px;
+        font-weight: 500;
+        margin-bottom: 22px;
+
+    }
+    .pricing-price p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .email-thred {
+        width: 47%;
+        margin-bottom: 20px;
+        border: 1px solid #e4e4e4;
+    }
+    .btn2 {
+        padding: 17px 60px;
+    }
+}
+
+@media all and (max-width:992px) {
+    .about-section h3 {
+        font-weight: 600;
+        font-size: 49px;
+    }
+    .header-section {
+        position: inherit;
+        padding-top: 19px;
+    }
+    .banner-section {
+        padding: 175px 0;
+        background-attachment: inherit;
+    }
+    .about-box {
+        float: left;
+        width: 48%;
+    }
+    .footer-btn {
+        text-align: left;
+        margin-top: 70px;
+    }
+    .pricing-box {
+        float: left;
+        width: 100%;
+        margin-right: 0;
+ 
+    }
+    .membar-bio h3 {
+        font-size: 19px;
+        margin-bottom: 10px;
+    }
+    .membar-bio h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .blog-text img {
+        margin-right: 0;
+        padding: 18px;
+        box-sizing: border-box;
+    }
+  
+
+@media all and (max-width:865px) {
+    .menu ul li a {
+        padding: 0 9px;
+        font-size: 16px;
+    }
+    .logo span {
+        font-size: 19px;
+    }
+    .banner-content h2 {
+        font-size: 49px;
+        margin-top: 20px;
+        margin-bottom: 45px;
+    }
+    .banner-content h3 {
+        font-size: 26px;
+        margin-top: -50px;
+    }
+    .banner-content a {
+        padding: 15px 15px;
+        margin-left: 15px;
+        margin-right: 15px;
+        font-size: 20px;
+    }
+    .banner-bottom-left {
+        float: none;
+        width: 100%;
+    }
+    .banner-bottom-right {
+        float: none;
+        width: 100%;
+    }
+    .banner-bottom-right h1 {
+        font-size: 39px;
+        margin-top: 20px;
+    }
+    .banner-bottom-right p {
+        font-size: 20px;
+        margin-top: 20px;
+        line-height: 31px;
+    }
+    .banner-bottom {
+        padding: 65px 0;
+    }
+    .s-content p {
+        font-size: 18px;
+    }
+    .s-content h3 {
+        font-size: 23px;
+        margin-bottom: 18px;
+    }
+    .user-item {
+        float: none;
+        width: 100%;
+        margin-right: 2%;
+    }
+    .user-menu-img {
+        margin-bottom: 24px;
+    }
+ 
+}
+
+
+
+@media all and (max-width:765px) {
+    .logo {
+        float: inherit;
+        width: 100%;
+        text-align: center;
+    }
+    
+    .logo span {
+        font-size: 21px;
+        position: relative;
+        top: -21px;
+    }
+    .logo-img img {
+        height: 45px;
+        float: inherit;
+        margin-right: 5px;
+    }
+    .menu ul {
+        list-style: none;
+        text-align: center;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .menu {
+        float: none;
+        width: 100%;
+    }
+    .loginbar {
+        float: none;
+        width: 100%;
+        text-align: right;
+        position: absolute;
+        right: 20px;
+        top: 55px;
+    }
+    .menu span {
+        font-size: 35px;
+        color: #6379df;
+        cursor: pointer;
+        display: block;
+    }
+    .banner-content h2 {
+        font-size: 45px;
+        margin-bottom: 40px;
+        margin-top: 0;
+    }
+ 
+    .banner-section {
+        padding: 130px 0;
+        background-attachment: inherit;
+    }
+    .banner-content h3 {
+        font-size: 27px;
+        margin-top: -35px;
+        margin-bottom: 20px;
+    }
+    .banner-content a {
+        padding: 17px 11px;
+        margin-left: 15px;
+        margin-right: 5px;
+        font-size: 21px;
+    }
+    .banner-bottom-right h1 {
+        font-size: 45px;
+        margin-top: 18px;
+        text-align: center;
+    }
+    .about-section h3 {
+        font-weight: 600;
+        font-size: 45px;
+        margin-top: -35px;
+    }
+    .about-box {
+        float: left;
+        width: 100%;
+    }
+    .pricing-head p {
+        font-size: 17px;
+        color: #767676;
+        padding-top: 25px;
+    }
+    .pricing-head h3 {
+        font-size: 50px;
+    }
+    .team-content h2 {
+        font-weight: 500;
+        font-size: 43px;
+    }
+    .team-membar {
+        float: left;
+        width: 48%;
+        margin-right: 1%;
+        margin-bottom: 10px;
+    }
+    .email {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .news-latter-content h3 {
+        font-size: 43px;
+    }
+    .blog-left h3 {
+        font-size: 38px;
+    }
+    .blog-left {
+        float: none;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .blog-right {
+        float: none;
+        width: 100%;
+    }
+    .email-fouth {
+        width: 100%;
+        margin-bottom: 20px;
+        margin-left: 0;
+    }
+    .email-fouth {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .map {
+        float: none;
+        width: 100%;
+    }
+    .contact-us {
+        float: none;
+        width: 100%;
+        padding-top: 30px;
+    }
+    .contact-footer p {
+        font-size: 17px;
+    }
+}
+
+@media all and (max-width:576px) {
+    .banner-content h3 {
+        font-size: 26px;
+        margin-top: -60px;
+        margin-bottom: 20px;
+    }
+    .banner-content h2 {
+        font-size: 35px;
+        margin-bottom: 45px;
+    }
+    .banner-content a {
+        padding: 15px 14px;
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .about-section h3 {
+        font-weight: 600;
+        font-size: 29px;
+        margin-top: -35px;
+    }
+    .about-section p {
+        font-size: 22px;
+        padding: 20px 0;
+    }
+    .news-latter-content h3 {
+        font-size: 43px;
+    }
+    .contact-footer p {
+        font-weight: 400;
+        font-size: 13px;
+    }
+    .contact-footer p {
+        font-weight: 400;
+        font-size: 10px;
+    }
+    .submit-btn {
+   
+        margin-left: 0;
+      
+    }
+    .contact-footer p {
+        font-weight: 600;
+        font-size: 9px;
+    }
+}
+
+@media all and (max-width:468px) {
+    .banner-content a {
+        padding: 15px 14px;
+        font-size: 19px;
+        margin-bottom: 20px;
+    }
+    .banner-content a {
+        padding: 14px 11px;
+        font-size: 19px;
+        margin-bottom: 20px;
+    }
+    .banner-content a {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .pricing-head h3 {
+        font-size: 39px;
+    }
+    .contact-footer p {
+        font-weight: 500;
+        font-size: 10px;
+    }
+    
+}
+
+@media all and (max-width:390px) {
+    .banner-content h2 {
+        font-size: 30px;
+        margin-bottom: 45px;
+    }
+    .banner-content h3 {
+        font-size: 26px;
+        margin-top: -70px;
+        margin-bottom: 18px;
+    }
+    .banner-content a {
+        padding: 15px 15px;
+        font-size: 19px;
+        display: block;
+        margin-bottom: 20px;
+    }
+    .team-membar {
+        float: none;
+        width: 100%;
+        margin-right: 1%;
+        margin-bottom: 20px;
+    }
+    .contact-footer p {
+        font-weight: 700;
+        font-size: 9px;
+    }
+    
+}
+
